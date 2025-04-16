@@ -1,0 +1,6 @@
+@Hamro_Kitab_HostAddress = http://localhost:5195
+
+GET {{Hamro_Kitab_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
